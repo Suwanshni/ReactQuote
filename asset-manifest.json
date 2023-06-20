@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ReactQuote/static/css/main.b25e59ff.css",
+    "main.css": "/ReactQuote/static/css/main.c992e900.css",
     "main.js": "/ReactQuote/static/js/main.6576e7b3.js",
     "static/js/787.579b6905.chunk.js": "/ReactQuote/static/js/787.579b6905.chunk.js",
     "index.html": "/ReactQuote/index.html",
-    "main.b25e59ff.css.map": "/ReactQuote/static/css/main.b25e59ff.css.map",
+    "main.c992e900.css.map": "/ReactQuote/static/css/main.c992e900.css.map",
     "main.6576e7b3.js.map": "/ReactQuote/static/js/main.6576e7b3.js.map",
     "787.579b6905.chunk.js.map": "/ReactQuote/static/js/787.579b6905.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b25e59ff.css",
+    "static/css/main.c992e900.css",
     "static/js/main.6576e7b3.js"
   ]
 }
