@@ -10,20 +10,6 @@ html{
     align-items: center;
 }
 
-button{
-    width: 250px;
-    height:80px;
-    cursor: pointer;
-    border-radius: 8px;
-    background-color: #6f75c7;
-    border-color: #6f75c7;
-    color: rgb(240, 228, 252);
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 25px;
-    box-shadow: 2px 2px 8px rgb(103, 1, 255);
-    margin-top: 50px;
-}
-
 @media screen and (max-width: 600px) {
     .desktop{
         display: none;
@@ -41,13 +27,22 @@ button{
     #author{
         font-family: Georgia, 'Times New Roman', Times, serif;
         color: white;
-        font-size: 1rem;
+        font-size: 1.2rem;
         text-shadow: 1px 1.5px #6443f9;
     }
 
-    #by{
-        font-family:"cursive";
-        color:#4F57CF;
+    button{
+        width: 220px;
+        height:40px;
+        cursor: pointer;
+        border-radius: 8px;
+        background-color: #6f75c7;
+        border-color: #6f75c7;
+        color: rgb(240, 228, 252);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 18px;
+        box-shadow: 2px 2px 8px rgb(103, 1, 255);
+        margin-top: 50px;
     }
     
 }
@@ -73,8 +68,17 @@ button{
         text-shadow: 1px 1.5px #6443f9;
     }  
     
-    #by{
-        font-family:"cursive";
-        color:#4F57CF;
+    button{
+        width: 250px;
+        height:80px;
+        cursor: pointer;
+        border-radius: 8px;
+        background-color: #6f75c7;
+        border-color: #6f75c7;
+        color: rgb(240, 228, 252);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 25px;
+        box-shadow: 2px 2px 8px rgb(103, 1, 255);
+        margin-top: 50px;
     }
 }

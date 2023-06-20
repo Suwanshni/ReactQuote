@@ -25,7 +25,7 @@ function GetJson() {
                 <center>
                     <h1 id="quote">  </h1>
                     <p id="author"> </p>
-                    <button type="button" onClick={GetData}>Quote of the day</button>
+                    <button type="button" onClick={GetData}>Quote of the Day</button>
                 </center>
             </div>
         </div>
